@@ -5,6 +5,7 @@ A simple Hello World REST API using Sring Boot framework.
 - Java 17
 - Maven
 - Spring Web
+- Postman
 
 ## Description
 - The project contains a greeting service that, given a certain URL, returns back a greeting message in a JSON format.
@@ -21,6 +22,6 @@ A simple Hello World REST API using Sring Boot framework.
     "content": "Hello, Maria!"
   }
   
-## Demo
+## Testing the service using Postman
 
 ![test_api](https://user-images.githubusercontent.com/82417779/221843962-9cb67b9e-9e79-4dcc-bb17-42c6f91c0143.gif)
