@@ -1,7 +1,7 @@
 # spring-rest-api
 A simple Hello World REST API using Sring Boot framework.
 
-## Languages ans Tools
+## Languages and Tools
 - Java 17
 - Maven
 - Spring Web
